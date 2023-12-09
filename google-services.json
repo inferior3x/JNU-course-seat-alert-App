@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "225208890491",
+    "project_id": "jnu-course-seat-alert2",
+    "storage_bucket": "jnu-course-seat-alert2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:225208890491:android:04b95ae5bb0c7406b75ede",
+        "android_client_info": {
+          "package_name": "com.coco3x.jnu_course_seat_alert"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "550689863877-3lmueffs3itlukuqtf9o6jcf2n6mvri0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB523kkmNrrONrEOz_zgUr1EFUjdvfXhSo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "550689863877-3lmueffs3itlukuqtf9o6jcf2n6mvri0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
