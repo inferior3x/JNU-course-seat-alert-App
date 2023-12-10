@@ -92,7 +92,7 @@ export default function App() {
       {isTokenReady ? (
         <WebView
         ref={webViewRef}
-        source={{ uri: 'http://192.168.11.18:8080/login' }}
+        source={{ uri: 'http://192.168.11.18:8080/signup' }}
         onLoadEnd={handleWebViewLoadEnd}
         />
       ) : (
